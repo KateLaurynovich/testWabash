@@ -1,0 +1,1044 @@
+2020-02-26 17:14:40 INFO  framework.logger.MyLogger : 11 - Hello
+2020-02-26 17:14:40 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-02-26 17:14:42 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-02-26 17:14:43 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-02-26 17:16:32 INFO  framework.logger.MyLogger : 11 - Hello
+2020-02-26 17:16:32 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-02-26 17:16:34 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-02-26 17:16:35 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-02-26 17:19:05 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-02-26 17:19:05 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-02-26 17:19:07 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-02-26 17:19:12 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/ page is opened
+2020-02-26 17:19:13 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-03 14:57:11 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-03 14:57:11 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-03 14:57:14 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-03 14:57:20 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/ page is opened
+2020-03-03 14:57:20 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-03 15:04:43 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-03 15:04:43 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-03 15:04:46 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-03 15:04:50 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/ page is opened
+2020-03-03 15:04:51 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-03 16:49:53 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-03 16:49:53 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-03 16:49:56 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-03 16:50:01 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/ page is opened
+2020-03-03 16:50:01 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 16:50:02 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-03 16:52:46 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-03 16:52:46 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-03 16:52:48 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-03 16:52:53 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/ page is opened
+2020-03-03 16:52:53 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 16:52:54 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-03 16:53:31 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-03 16:53:31 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-03 16:53:33 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-03 16:53:38 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/ page is opened
+2020-03-03 16:53:38 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 16:53:38 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-03 16:53:38 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-03 16:53:39 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-03 16:53:52 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-03 16:53:52 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-03 16:53:54 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-03 16:53:59 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/ page is opened
+2020-03-03 16:53:59 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 16:53:59 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-03 16:53:59 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-03 16:54:00 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-03 16:55:11 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-03 16:55:11 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-03 16:55:13 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-03 16:55:18 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/ page is opened
+2020-03-03 16:55:18 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 16:55:18 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-03 16:55:18 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-03 16:55:19 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-03 16:56:34 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-03 16:56:34 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-03 16:56:36 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-03 16:56:41 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/ page is opened
+2020-03-03 16:56:41 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 16:56:41 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-03 16:56:41 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-03 16:56:42 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-03 16:58:09 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-03 16:58:09 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-03 16:58:12 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-03 16:58:16 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/ page is opened
+2020-03-03 16:58:16 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 16:58:16 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-03 16:58:16 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-03 16:58:17 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-03 16:58:17 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 16:58:17 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-03 17:00:41 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-03 17:00:41 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-03 17:00:44 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-03 17:00:50 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/ page is opened
+2020-03-03 17:00:50 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 17:00:50 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-03 17:00:50 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-03 17:00:50 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-03 17:00:50 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 17:00:50 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-03 17:01:39 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-03 17:01:39 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-03 17:01:42 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-03 17:01:47 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/ page is opened
+2020-03-03 17:01:47 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 17:01:47 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-03 17:01:47 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-03 17:01:47 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-03 17:01:47 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 17:01:47 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-03 17:05:11 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-03 17:05:11 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-03 17:05:13 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-03 17:05:18 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/ page is opened
+2020-03-03 17:05:18 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 17:05:18 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-03 17:05:18 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-03 17:05:18 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-03 17:05:18 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 17:05:19 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-03 17:07:01 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-03 17:07:01 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-03 17:07:04 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-03 17:07:08 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/ page is opened
+2020-03-03 17:07:08 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 17:07:08 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-03 17:07:08 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-03 17:07:08 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-03 17:07:08 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 17:07:09 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-03 17:08:39 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-03 17:08:39 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-03 17:08:42 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-03 17:08:47 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/ page is opened
+2020-03-03 17:08:47 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 17:08:47 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-03 17:08:47 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-03 17:08:47 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-03 17:08:47 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 17:08:47 INFO  framework.logger.MyLogger : 15 - Create element Our Culture
+2020-03-03 17:08:53 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-03 17:09:38 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-03 17:09:38 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-03 17:09:41 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-03 17:09:45 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/ page is opened
+2020-03-03 17:09:45 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 17:09:45 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-03 17:09:45 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-03 17:09:45 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-03 17:09:45 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 17:09:45 INFO  framework.logger.MyLogger : 15 - Create element Our Culture
+2020-03-03 17:09:51 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-03 17:10:43 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-03 17:10:43 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-03 17:10:45 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-03 17:10:50 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/ page is opened
+2020-03-03 17:10:50 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 17:10:50 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-03 17:10:50 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-03 17:10:50 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-03 17:10:50 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 17:10:50 INFO  framework.logger.MyLogger : 15 - Create element Our Culture
+2020-03-03 17:10:56 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-03 17:19:23 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-03 17:19:23 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-03 17:19:26 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-03 17:19:33 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/ page is opened
+2020-03-03 17:19:33 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 17:19:33 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-03 17:19:33 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-03 17:19:33 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-03 17:19:33 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 17:19:33 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-03 17:22:09 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-03 17:22:09 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-03 17:22:12 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-03 17:22:17 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/ page is opened
+2020-03-03 17:22:17 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 17:22:17 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-03 17:22:17 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-03 17:22:17 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-03 17:22:17 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 17:22:17 INFO  framework.logger.MyLogger : 15 - Create element Our Culture
+2020-03-03 17:22:23 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-03 17:34:37 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-03 17:34:37 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-03 17:34:40 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-03 17:34:44 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/ page is opened
+2020-03-03 17:34:44 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 17:34:44 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-03 17:34:44 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-03 17:34:44 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-03 17:34:44 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 17:34:44 INFO  framework.logger.MyLogger : 15 - Create element Our Culture
+2020-03-03 17:34:44 INFO  framework.logger.MyLogger : 15 - Click on element Our Culture
+2020-03-03 17:34:46 INFO  framework.logger.MyLogger : 15 - Create element Breadcrumb
+2020-03-03 17:34:49 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-03 17:39:20 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-03 17:39:20 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-03 17:39:22 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-03 17:39:27 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/ page is opened
+2020-03-03 17:39:27 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 17:39:27 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-03 17:39:27 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-03 17:39:28 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-03 17:39:28 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 17:39:28 INFO  framework.logger.MyLogger : 15 - Create element Our Culture
+2020-03-03 17:39:28 INFO  framework.logger.MyLogger : 15 - Click on element Our Culture
+2020-03-03 17:39:30 INFO  framework.logger.MyLogger : 15 - Create element Breadcrumb
+2020-03-03 17:39:31 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-03 17:43:01 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-03 17:43:01 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-03 17:43:03 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-03 17:43:08 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/ page is opened
+2020-03-03 17:43:08 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 17:43:08 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-03 17:43:08 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-03 17:43:08 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-03 17:43:08 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 17:43:08 INFO  framework.logger.MyLogger : 15 - Create element Our Culture
+2020-03-03 17:43:08 INFO  framework.logger.MyLogger : 15 - Click on element Our Culture
+2020-03-03 17:43:10 INFO  framework.logger.MyLogger : 15 - Create element Breadcrumb
+2020-03-03 17:43:11 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 17:43:11 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-03 17:43:11 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-03 17:43:11 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-03 17:43:12 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 17:43:12 INFO  framework.logger.MyLogger : 15 - Create element Corporate Responsibility
+2020-03-03 17:43:12 INFO  framework.logger.MyLogger : 11 - move to element Corporate Responsibility
+2020-03-03 17:43:12 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 17:43:12 INFO  framework.logger.MyLogger : 15 - Create element Fuel Economy
+2020-03-03 17:43:12 INFO  framework.logger.MyLogger : 15 - Click on element Fuel Economy
+2020-03-03 17:43:14 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-03 17:43:48 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-03 17:43:48 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-03 17:43:51 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-03 17:43:57 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/ page is opened
+2020-03-03 17:43:57 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 17:43:57 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-03 17:43:57 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-03 17:43:57 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-03 17:43:57 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 17:43:57 INFO  framework.logger.MyLogger : 15 - Create element Our Culture
+2020-03-03 17:43:57 INFO  framework.logger.MyLogger : 15 - Click on element Our Culture
+2020-03-03 17:43:59 INFO  framework.logger.MyLogger : 15 - Create element Breadcrumb
+2020-03-03 17:44:00 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 17:44:00 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-03 17:44:00 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-03 17:44:00 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-03 17:44:01 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 17:44:01 INFO  framework.logger.MyLogger : 15 - Create element Corporate Responsibility
+2020-03-03 17:44:01 INFO  framework.logger.MyLogger : 11 - move to element Corporate Responsibility
+2020-03-03 17:44:01 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 17:44:01 INFO  framework.logger.MyLogger : 15 - Create element Fuel Economy
+2020-03-03 17:44:01 INFO  framework.logger.MyLogger : 15 - Click on element Fuel Economy
+2020-03-03 17:44:02 INFO  framework.logger.MyLogger : 15 - Create element Breadcrumb
+2020-03-03 17:44:03 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-03 20:29:43 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-03 20:29:43 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-03 20:29:46 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-03 20:29:52 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/ page is opened
+2020-03-03 20:29:52 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 20:29:52 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-03 20:29:52 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-03 20:29:52 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-03 20:29:52 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 20:29:52 INFO  framework.logger.MyLogger : 15 - Create element Our Culture
+2020-03-03 20:29:52 INFO  framework.logger.MyLogger : 15 - Click on element Our Culture
+2020-03-03 20:29:54 INFO  framework.logger.MyLogger : 15 - Create element Breadcrumb
+2020-03-03 20:29:55 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 20:29:55 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-03 20:29:55 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-03 20:29:55 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-03 20:29:56 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 20:29:56 INFO  framework.logger.MyLogger : 15 - Create element Corporate Responsibility
+2020-03-03 20:29:56 INFO  framework.logger.MyLogger : 11 - move to element Corporate Responsibility
+2020-03-03 20:29:56 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 20:29:56 INFO  framework.logger.MyLogger : 15 - Create element Fuel Economy
+2020-03-03 20:29:56 INFO  framework.logger.MyLogger : 15 - Click on element Fuel Economy
+2020-03-03 20:29:56 INFO  framework.logger.MyLogger : 15 - Create element Breadcrumb
+2020-03-03 20:29:58 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 20:29:58 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - Tradition of Innovation
+2020-03-03 20:29:58 INFO  framework.logger.MyLogger : 15 - Create element Tradition of Innovation
+2020-03-03 20:29:58 INFO  framework.logger.MyLogger : 11 - move to element Tradition of Innovation
+2020-03-03 20:29:58 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 20:29:58 INFO  framework.logger.MyLogger : 15 - Create element Responsibility to Our Customers
+2020-03-03 20:29:58 INFO  framework.logger.MyLogger : 15 - Click on element Responsibility to Our Customers
+2020-03-03 20:29:58 INFO  framework.logger.MyLogger : 15 - Create element Breadcrumb
+2020-03-03 20:30:00 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-03 20:52:55 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-03 20:52:55 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-03 20:52:57 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-03 20:53:01 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/ page is opened
+2020-03-03 20:53:01 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 20:53:02 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-03 20:53:02 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-03 20:53:02 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-03 20:53:02 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 20:53:02 INFO  framework.logger.MyLogger : 15 - Create element Our Culture
+2020-03-03 20:53:02 INFO  framework.logger.MyLogger : 15 - Click on element Our Culture
+2020-03-03 20:53:05 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 20:53:05 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-03 20:53:05 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-03 20:53:05 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-03 20:53:05 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 20:53:05 INFO  framework.logger.MyLogger : 15 - Create element Corporate Responsibility
+2020-03-03 20:53:05 INFO  framework.logger.MyLogger : 11 - move to element Corporate Responsibility
+2020-03-03 20:53:05 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 20:53:05 INFO  framework.logger.MyLogger : 15 - Create element Fuel Economy
+2020-03-03 20:53:05 INFO  framework.logger.MyLogger : 15 - Click on element Fuel Economy
+2020-03-03 20:53:07 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 20:53:07 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - Tradition of Innovation
+2020-03-03 20:53:07 INFO  framework.logger.MyLogger : 15 - Create element Tradition of Innovation
+2020-03-03 20:53:07 INFO  framework.logger.MyLogger : 11 - move to element Tradition of Innovation
+2020-03-03 20:53:07 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 20:53:08 INFO  framework.logger.MyLogger : 15 - Create element Responsibility to Our Customers
+2020-03-03 20:53:08 INFO  framework.logger.MyLogger : 15 - Click on element Responsibility to Our Customers
+2020-03-03 20:53:10 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-03 21:17:22 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-03 21:17:22 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-03 21:17:25 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-03 21:17:40 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/ page is opened
+2020-03-03 21:17:40 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 21:17:40 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-03 21:17:40 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-03 21:17:40 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-03 21:17:40 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 21:17:40 INFO  framework.logger.MyLogger : 15 - Create element Our Culture
+2020-03-03 21:17:40 INFO  framework.logger.MyLogger : 15 - Click on element Our Culture
+2020-03-03 21:17:53 INFO  framework.logger.MyLogger : 15 - Create element Breadcrumb
+2020-03-03 21:17:54 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 21:17:54 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-03 21:17:54 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-03 21:17:54 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-03 21:17:54 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 21:17:55 INFO  framework.logger.MyLogger : 15 - Create element Corporate Responsibility
+2020-03-03 21:17:55 INFO  framework.logger.MyLogger : 11 - move to element Corporate Responsibility
+2020-03-03 21:17:55 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 21:17:55 INFO  framework.logger.MyLogger : 15 - Create element Fuel Economy
+2020-03-03 21:17:55 INFO  framework.logger.MyLogger : 15 - Click on element Fuel Economy
+2020-03-03 21:17:56 INFO  framework.logger.MyLogger : 15 - Create element Breadcrumb
+2020-03-03 21:17:57 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 21:17:57 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - Tradition of Innovation
+2020-03-03 21:17:57 INFO  framework.logger.MyLogger : 15 - Create element Tradition of Innovation
+2020-03-03 21:17:58 INFO  framework.logger.MyLogger : 11 - move to element Tradition of Innovation
+2020-03-03 21:17:58 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 21:17:58 INFO  framework.logger.MyLogger : 15 - Create element Responsibility to Our Customers
+2020-03-03 21:17:58 INFO  framework.logger.MyLogger : 15 - Click on element Responsibility to Our Customers
+2020-03-03 21:17:59 INFO  framework.logger.MyLogger : 15 - Create element Breadcrumb
+2020-03-03 21:18:01 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-03 21:19:13 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-03 21:19:13 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-03 21:19:15 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-03 21:19:17 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/ page is opened
+2020-03-03 21:19:17 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 21:19:17 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-03 21:19:31 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-03 21:19:31 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-03 21:19:34 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-03 21:19:40 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/ page is opened
+2020-03-03 21:19:40 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 21:19:40 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-03 21:19:40 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-03 21:19:40 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-03 21:19:40 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 21:19:40 INFO  framework.logger.MyLogger : 15 - Create element Our Culture
+2020-03-03 21:19:40 INFO  framework.logger.MyLogger : 15 - Click on element Our Culture
+2020-03-03 21:19:43 INFO  framework.logger.MyLogger : 15 - Create element Breadcrumb
+2020-03-03 21:19:44 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 21:19:44 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-03 21:19:44 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-03 21:19:44 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-03 21:19:44 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 21:19:44 INFO  framework.logger.MyLogger : 15 - Create element Corporate Responsibility
+2020-03-03 21:19:44 INFO  framework.logger.MyLogger : 11 - move to element Corporate Responsibility
+2020-03-03 21:19:44 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 21:19:44 INFO  framework.logger.MyLogger : 15 - Create element Fuel Economy
+2020-03-03 21:19:44 INFO  framework.logger.MyLogger : 15 - Click on element Fuel Economy
+2020-03-03 21:19:47 INFO  framework.logger.MyLogger : 15 - Create element Breadcrumb
+2020-03-03 21:19:48 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 21:19:48 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - Tradition of Innovation
+2020-03-03 21:19:48 INFO  framework.logger.MyLogger : 15 - Create element Tradition of Innovation
+2020-03-03 21:19:48 INFO  framework.logger.MyLogger : 11 - move to element Tradition of Innovation
+2020-03-03 21:19:48 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 21:19:48 INFO  framework.logger.MyLogger : 15 - Create element Responsibility to Our Customers
+2020-03-03 21:19:48 INFO  framework.logger.MyLogger : 15 - Click on element Responsibility to Our Customers
+2020-03-03 21:19:50 INFO  framework.logger.MyLogger : 15 - Create element Breadcrumb
+2020-03-03 21:19:52 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-03 21:31:55 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-03 21:31:55 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-03 21:31:58 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-03 21:32:07 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/ page is opened
+2020-03-03 21:32:07 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 21:32:07 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-03 21:32:07 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-03 21:32:07 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-03 21:32:07 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 21:32:07 INFO  framework.logger.MyLogger : 15 - Create element Our Culture
+2020-03-03 21:32:13 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-03 21:32:27 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-03 21:32:27 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-03 21:32:30 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-03 21:32:47 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/ page is opened
+2020-03-03 21:32:47 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 21:32:47 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-03 21:32:47 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-03 21:32:47 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-03 21:32:47 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 21:32:47 INFO  framework.logger.MyLogger : 15 - Create element Our Culture
+2020-03-03 21:32:47 INFO  framework.logger.MyLogger : 15 - Click on element Our Culture
+2020-03-03 21:32:50 INFO  framework.logger.MyLogger : 15 - Create element Breadcrumb
+2020-03-03 21:32:51 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 21:32:51 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-03 21:32:51 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-03 21:32:51 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-03 21:32:51 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 21:32:51 INFO  framework.logger.MyLogger : 15 - Create element Corporate Responsibility
+2020-03-03 21:32:52 INFO  framework.logger.MyLogger : 11 - move to element Corporate Responsibility
+2020-03-03 21:32:52 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 21:32:52 INFO  framework.logger.MyLogger : 15 - Create element Fuel Economy
+2020-03-03 21:32:52 INFO  framework.logger.MyLogger : 15 - Click on element Fuel Economy
+2020-03-03 21:32:53 INFO  framework.logger.MyLogger : 15 - Create element Breadcrumb
+2020-03-03 21:32:54 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 21:32:54 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - Tradition of Innovation
+2020-03-03 21:32:54 INFO  framework.logger.MyLogger : 15 - Create element Tradition of Innovation
+2020-03-03 21:32:54 INFO  framework.logger.MyLogger : 11 - move to element Tradition of Innovation
+2020-03-03 21:32:54 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 21:32:54 INFO  framework.logger.MyLogger : 15 - Create element Responsibility to Our Customers
+2020-03-03 21:32:54 INFO  framework.logger.MyLogger : 15 - Click on element Responsibility to Our Customers
+2020-03-03 21:32:55 INFO  framework.logger.MyLogger : 15 - Create element Breadcrumb
+2020-03-03 21:32:57 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-03 21:57:14 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-03 21:57:14 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-03 21:57:17 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-03 21:57:39 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/ page is opened
+2020-03-03 21:57:39 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 21:57:39 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-03 21:57:39 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-03 21:57:39 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-03 21:57:39 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 21:57:39 INFO  framework.logger.MyLogger : 15 - Create element Our Culture
+2020-03-03 21:57:39 INFO  framework.logger.MyLogger : 15 - Click on element Our Culture
+2020-03-03 21:57:56 INFO  framework.logger.MyLogger : 15 - Create element Breadcrumb
+2020-03-03 21:57:56 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 21:57:56 INFO  framework.logger.MyLogger : 15 - Create element Our Culture
+2020-03-03 21:58:02 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-03 21:59:46 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-03 21:59:46 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-03 21:59:48 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-03 21:59:56 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/ page is opened
+2020-03-03 21:59:56 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 21:59:56 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-03 21:59:56 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-03 21:59:56 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-03 21:59:56 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 21:59:56 INFO  framework.logger.MyLogger : 15 - Create element Our Culture
+2020-03-03 21:59:56 INFO  framework.logger.MyLogger : 15 - Click on element Our Culture
+2020-03-03 22:00:00 INFO  framework.logger.MyLogger : 15 - Create element Breadcrumb
+2020-03-03 22:00:00 INFO  framework.logger.MyLogger : 15 - Create element Breadcrumb
+2020-03-03 22:00:00 INFO  framework.logger.MyLogger : 15 - Create element Breadcrumb
+2020-03-03 22:00:00 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-03 22:00:47 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-03 22:00:47 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-03 22:00:49 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-03 22:00:51 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/ page is opened
+2020-03-03 22:00:51 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 22:00:52 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-03 22:01:17 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-03 22:01:17 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-03 22:01:20 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-03 22:01:24 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/ page is opened
+2020-03-03 22:01:24 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 22:01:24 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-03 22:01:24 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-03 22:01:24 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-03 22:01:24 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 22:01:24 INFO  framework.logger.MyLogger : 15 - Create element Our Culture
+2020-03-03 22:01:24 INFO  framework.logger.MyLogger : 15 - Click on element Our Culture
+2020-03-03 22:01:27 INFO  framework.logger.MyLogger : 15 - Create element Breadcrumb
+2020-03-03 22:01:27 INFO  framework.logger.MyLogger : 15 - Create element Breadcrumb
+2020-03-03 22:01:27 INFO  framework.logger.MyLogger : 15 - Create element Breadcrumb
+2020-03-03 22:01:27 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-03 22:02:26 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-03 22:02:26 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-03 22:02:28 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-03 22:02:35 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/ page is opened
+2020-03-03 22:02:35 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 22:02:35 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-03 22:02:35 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-03 22:02:35 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-03 22:02:35 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 22:02:35 INFO  framework.logger.MyLogger : 15 - Create element Our Culture
+2020-03-03 22:02:35 INFO  framework.logger.MyLogger : 15 - Click on element Our Culture
+2020-03-03 22:02:46 INFO  framework.logger.MyLogger : 15 - Create element Breadcrumb
+2020-03-03 22:02:46 INFO  framework.logger.MyLogger : 15 - Create element Breadcrumb
+2020-03-03 22:02:46 INFO  framework.logger.MyLogger : 15 - Create element Breadcrumb
+2020-03-03 22:02:47 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-03 22:06:10 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-03 22:06:10 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-03 22:06:13 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-03 22:06:24 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/home page is opened
+2020-03-03 22:06:24 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 22:06:24 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-03 22:06:24 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-03 22:06:24 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-03 22:06:24 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 22:06:24 INFO  framework.logger.MyLogger : 15 - Create element Our Culture
+2020-03-03 22:06:24 INFO  framework.logger.MyLogger : 15 - Click on element Our Culture
+2020-03-03 22:06:30 INFO  framework.logger.MyLogger : 15 - Create element Breadcrumb
+2020-03-03 22:06:30 INFO  framework.logger.MyLogger : 15 - Create element Breadcrumb
+2020-03-03 22:06:30 INFO  framework.logger.MyLogger : 15 - Create element Breadcrumb
+2020-03-03 22:06:30 INFO  framework.logger.MyLogger : 15 - Create element Breadcrumb
+2020-03-03 22:06:30 INFO  framework.logger.MyLogger : 15 - Click on element Breadcrumb
+2020-03-03 22:06:30 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 22:06:30 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-03 22:06:30 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-03 22:06:30 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-03 22:06:30 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 22:06:31 INFO  framework.logger.MyLogger : 15 - Create element Corporate Responsibility
+2020-03-03 22:06:31 INFO  framework.logger.MyLogger : 11 - move to element Corporate Responsibility
+2020-03-03 22:06:31 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 22:06:31 INFO  framework.logger.MyLogger : 15 - Create element Fuel Economy
+2020-03-03 22:06:31 INFO  framework.logger.MyLogger : 15 - Click on element Fuel Economy
+2020-03-03 22:06:33 INFO  framework.logger.MyLogger : 15 - Create element Breadcrumb
+2020-03-03 22:06:33 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 22:06:33 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - Tradition of Innovation
+2020-03-03 22:06:33 INFO  framework.logger.MyLogger : 15 - Create element Tradition of Innovation
+2020-03-03 22:06:33 INFO  framework.logger.MyLogger : 11 - move to element Tradition of Innovation
+2020-03-03 22:06:33 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 22:06:33 INFO  framework.logger.MyLogger : 15 - Create element Responsibility to Our Customers
+2020-03-03 22:06:33 INFO  framework.logger.MyLogger : 15 - Click on element Responsibility to Our Customers
+2020-03-03 22:06:37 INFO  framework.logger.MyLogger : 15 - Create element Breadcrumb
+2020-03-03 22:06:38 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-03 22:10:24 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-03 22:10:24 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-03 22:10:27 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-03 22:10:51 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/home page is opened
+2020-03-03 22:10:51 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 22:10:51 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-03 22:10:51 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-03 22:10:51 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-03 22:10:51 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 22:10:51 INFO  framework.logger.MyLogger : 15 - Create element Our Culture
+2020-03-03 22:10:51 INFO  framework.logger.MyLogger : 15 - Click on element Our Culture
+2020-03-03 22:10:54 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 22:10:54 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-03 22:10:54 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-03 22:10:54 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-03 22:10:54 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 22:10:54 INFO  framework.logger.MyLogger : 15 - Create element Our Culture
+2020-03-03 22:10:54 INFO  framework.logger.MyLogger : 15 - Create element Breadcrumb
+2020-03-03 22:10:54 INFO  framework.logger.MyLogger : 15 - Create element Breadcrumb
+2020-03-03 22:10:54 INFO  framework.logger.MyLogger : 15 - Create element Breadcrumb
+2020-03-03 22:10:54 INFO  framework.logger.MyLogger : 15 - Click on element Breadcrumb
+2020-03-03 22:10:54 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 22:10:55 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-03 22:11:37 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-03 22:11:37 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-03 22:11:39 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-03 22:11:47 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/home page is opened
+2020-03-03 22:11:47 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 22:11:47 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-03 22:11:47 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-03 22:11:47 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-03 22:11:47 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 22:11:47 INFO  framework.logger.MyLogger : 15 - Create element Our Culture
+2020-03-03 22:11:47 INFO  framework.logger.MyLogger : 15 - Click on element Our Culture
+2020-03-03 22:11:50 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 22:11:50 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-03 22:11:50 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-03 22:11:50 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-03 22:11:50 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 22:11:50 INFO  framework.logger.MyLogger : 15 - Create element Our Culture
+2020-03-03 22:11:50 INFO  framework.logger.MyLogger : 15 - Create element Breadcrumb
+2020-03-03 22:11:50 INFO  framework.logger.MyLogger : 15 - Create element Breadcrumb
+2020-03-03 22:11:50 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 22:11:50 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-03 22:11:50 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-03 22:11:50 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-03 22:11:51 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 22:11:51 INFO  framework.logger.MyLogger : 15 - Create element Corporate Responsibility
+2020-03-03 22:11:51 INFO  framework.logger.MyLogger : 11 - move to element Corporate Responsibility
+2020-03-03 22:11:51 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 22:11:51 INFO  framework.logger.MyLogger : 15 - Create element Fuel Economy
+2020-03-03 22:11:51 INFO  framework.logger.MyLogger : 15 - Click on element Fuel Economy
+2020-03-03 22:11:52 INFO  framework.logger.MyLogger : 15 - Create element Breadcrumb
+2020-03-03 22:11:52 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-03 22:11:52 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - Tradition of Innovation
+2020-03-03 22:11:52 INFO  framework.logger.MyLogger : 15 - Create element Tradition of Innovation
+2020-03-03 22:11:52 INFO  framework.logger.MyLogger : 11 - move to element Tradition of Innovation
+2020-03-03 22:11:52 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-03 22:11:52 INFO  framework.logger.MyLogger : 15 - Create element Responsibility to Our Customers
+2020-03-03 22:11:52 INFO  framework.logger.MyLogger : 15 - Click on element Responsibility to Our Customers
+2020-03-03 22:11:53 INFO  framework.logger.MyLogger : 15 - Create element Breadcrumb
+2020-03-03 22:11:54 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-04 16:26:40 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-04 16:26:40 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-04 16:26:43 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-04 16:26:49 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/home page is opened
+2020-03-04 16:26:49 INFO  framework.logger.MyLogger : 23 - <----------- Step 3 -  Add some tests for Location Search -> Dealer --->
+2020-03-04 16:26:49 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-04 16:26:49 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - Location Search
+2020-03-04 16:26:49 INFO  framework.logger.MyLogger : 15 - Create element Location Search
+2020-03-04 16:26:49 INFO  framework.logger.MyLogger : 11 - move to element Location Search
+2020-03-04 16:26:49 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-04 16:26:49 INFO  framework.logger.MyLogger : 15 - Create element Dealer
+2020-03-04 16:26:49 INFO  framework.logger.MyLogger : 15 - Click on element Dealer
+2020-03-04 16:27:03 INFO  framework.logger.MyLogger : 15 - Create element Sales
+2020-03-04 16:27:03 INFO  framework.logger.MyLogger : 15 - Click on element Sales
+2020-03-04 16:27:06 INFO  framework.logger.MyLogger : 15 - Create element Sales
+2020-03-04 16:27:12 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-04 16:29:20 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-04 16:29:20 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-04 16:29:23 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-04 16:29:28 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/home page is opened
+2020-03-04 16:29:28 INFO  framework.logger.MyLogger : 23 - <----------- Step 3 -  Add some tests for Location Search -> Dealer --->
+2020-03-04 16:29:28 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-04 16:29:28 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - Location Search
+2020-03-04 16:29:28 INFO  framework.logger.MyLogger : 15 - Create element Location Search
+2020-03-04 16:29:28 INFO  framework.logger.MyLogger : 11 - move to element Location Search
+2020-03-04 16:29:28 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-04 16:29:28 INFO  framework.logger.MyLogger : 15 - Create element Dealer
+2020-03-04 16:29:28 INFO  framework.logger.MyLogger : 15 - Click on element Dealer
+2020-03-04 16:29:44 INFO  framework.logger.MyLogger : 15 - Create element Sales
+2020-03-04 16:29:44 INFO  framework.logger.MyLogger : 15 - Click on element Sales
+2020-03-04 16:29:54 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-04 16:31:12 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-04 16:31:12 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-04 16:31:15 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-04 16:31:19 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/home page is opened
+2020-03-04 16:31:19 INFO  framework.logger.MyLogger : 23 - <----------- Step 3 -  Add some tests for Location Search -> Dealer --->
+2020-03-04 16:31:19 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-04 16:31:19 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - Location Search
+2020-03-04 16:31:19 INFO  framework.logger.MyLogger : 15 - Create element Location Search
+2020-03-04 16:31:19 INFO  framework.logger.MyLogger : 11 - move to element Location Search
+2020-03-04 16:31:19 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-04 16:31:19 INFO  framework.logger.MyLogger : 15 - Create element Dealer
+2020-03-04 16:31:19 INFO  framework.logger.MyLogger : 15 - Click on element Dealer
+2020-03-04 16:31:23 INFO  framework.logger.MyLogger : 15 - Create element Sales
+2020-03-04 16:31:23 INFO  framework.logger.MyLogger : 15 - Click on element Sales
+2020-03-04 16:31:33 INFO  framework.logger.MyLogger : 15 - Create element Sales
+2020-03-04 16:31:39 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-04 16:33:45 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-04 16:33:45 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-04 16:33:47 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-04 16:33:51 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/home page is opened
+2020-03-04 16:33:51 INFO  framework.logger.MyLogger : 23 - <----------- Step 3 -  Add some tests for Location Search -> Dealer --->
+2020-03-04 16:33:51 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-04 16:33:51 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - Location Search
+2020-03-04 16:33:51 INFO  framework.logger.MyLogger : 15 - Create element Location Search
+2020-03-04 16:33:52 INFO  framework.logger.MyLogger : 11 - move to element Location Search
+2020-03-04 16:33:52 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-04 16:33:52 INFO  framework.logger.MyLogger : 15 - Create element Dealer
+2020-03-04 16:33:52 INFO  framework.logger.MyLogger : 15 - Click on element Dealer
+2020-03-04 16:34:07 INFO  framework.logger.MyLogger : 15 - Create element Sales
+2020-03-04 16:34:07 INFO  framework.logger.MyLogger : 15 - Click on element Sales
+2020-03-04 16:34:17 INFO  framework.logger.MyLogger : 15 - Create element Sales
+2020-03-04 16:34:38 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-04 16:39:00 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-04 16:39:00 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-04 16:39:03 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-04 16:39:07 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/home page is opened
+2020-03-04 16:39:07 INFO  framework.logger.MyLogger : 23 - <----------- Step 3 -  Add some tests for Location Search -> Dealer --->
+2020-03-04 16:39:07 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-04 16:39:07 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - Location Search
+2020-03-04 16:39:07 INFO  framework.logger.MyLogger : 15 - Create element Location Search
+2020-03-04 16:39:07 INFO  framework.logger.MyLogger : 11 - move to element Location Search
+2020-03-04 16:39:08 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-04 16:39:08 INFO  framework.logger.MyLogger : 15 - Create element Dealer
+2020-03-04 16:39:08 INFO  framework.logger.MyLogger : 15 - Click on element Dealer
+2020-03-04 16:39:23 INFO  framework.logger.MyLogger : 15 - Create element Sales
+2020-03-04 16:39:23 INFO  framework.logger.MyLogger : 15 - Click on element Sales
+2020-03-04 16:39:33 INFO  framework.logger.MyLogger : 15 - Create element Sales
+2020-03-04 16:39:33 INFO  framework.logger.MyLogger : 11 - Sales - is displayed
+2020-03-04 16:39:33 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-04 16:40:14 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-04 16:40:14 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-04 16:40:16 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-04 16:40:20 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/home page is opened
+2020-03-04 16:40:20 INFO  framework.logger.MyLogger : 23 - <----------- Step 3 -  Add some tests for Location Search -> Dealer --->
+2020-03-04 16:40:20 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-04 16:40:20 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - Location Search
+2020-03-04 16:40:20 INFO  framework.logger.MyLogger : 15 - Create element Location Search
+2020-03-04 16:40:20 INFO  framework.logger.MyLogger : 11 - move to element Location Search
+2020-03-04 16:40:20 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-04 16:40:20 INFO  framework.logger.MyLogger : 15 - Create element Dealer
+2020-03-04 16:40:20 INFO  framework.logger.MyLogger : 15 - Click on element Dealer
+2020-03-04 16:40:20 INFO  framework.logger.MyLogger : 15 - Create element Sales
+2020-03-04 16:40:21 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-04 16:40:26 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-04 16:40:26 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-04 16:40:29 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-04 16:40:33 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/home page is opened
+2020-03-04 16:40:33 INFO  framework.logger.MyLogger : 23 - <----------- Step 3 -  Add some tests for Location Search -> Dealer --->
+2020-03-04 16:40:33 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-04 16:40:33 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - Location Search
+2020-03-04 16:40:33 INFO  framework.logger.MyLogger : 15 - Create element Location Search
+2020-03-04 16:40:33 INFO  framework.logger.MyLogger : 11 - move to element Location Search
+2020-03-04 16:40:33 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-04 16:40:33 INFO  framework.logger.MyLogger : 15 - Create element Dealer
+2020-03-04 16:40:33 INFO  framework.logger.MyLogger : 15 - Click on element Dealer
+2020-03-04 16:40:37 INFO  framework.logger.MyLogger : 15 - Create element Sales
+2020-03-04 16:40:37 INFO  framework.logger.MyLogger : 15 - Click on element Sales
+2020-03-04 16:40:47 INFO  framework.logger.MyLogger : 15 - Create element Sales
+2020-03-04 16:40:47 INFO  framework.logger.MyLogger : 11 - Sales - is displayed
+2020-03-04 16:40:48 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-04 16:43:22 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-04 16:43:22 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-04 16:43:24 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-04 16:43:29 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/home page is opened
+2020-03-04 16:43:29 INFO  framework.logger.MyLogger : 23 - <----------- Step 3 -  Add some tests for Location Search -> Dealer --->
+2020-03-04 16:43:29 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-04 16:43:29 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - Location Search
+2020-03-04 16:43:29 INFO  framework.logger.MyLogger : 15 - Create element Location Search
+2020-03-04 16:43:29 INFO  framework.logger.MyLogger : 11 - move to element Location Search
+2020-03-04 16:43:29 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-04 16:43:29 INFO  framework.logger.MyLogger : 15 - Create element Dealer
+2020-03-04 16:43:29 INFO  framework.logger.MyLogger : 15 - Click on element Dealer
+2020-03-04 16:43:45 INFO  framework.logger.MyLogger : 15 - Create element Sales
+2020-03-04 16:43:45 INFO  framework.logger.MyLogger : 15 - Click on element Sales
+2020-03-04 16:43:55 INFO  framework.logger.MyLogger : 15 - Create element Sales
+2020-03-04 16:43:55 INFO  framework.logger.MyLogger : 11 - Sales - is displayed
+2020-03-04 16:43:59 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-04 17:15:09 INFO  framework.logger.MyLogger : 11 - 1 is random value from 3
+2020-03-04 17:15:13 INFO  framework.logger.MyLogger : 11 - 1 is random value from 3
+2020-03-04 17:15:16 INFO  framework.logger.MyLogger : 11 - 0 is random value from 3
+2020-03-04 17:15:19 INFO  framework.logger.MyLogger : 11 - 0 is random value from 3
+2020-03-04 17:15:23 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:15:26 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 1 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 0 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 1 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 0 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 0 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 0 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 1 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 1 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 1 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 0 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 1 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 0 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 1 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 0 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 0 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 0 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 0 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 1 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 0 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 0 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 1 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 0 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 0 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 0 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 1 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 1 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 1 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 1 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 1 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 1 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 1 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 0 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 1 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 1 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 1 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 1 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 0 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 0 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 1 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 0 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 0 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 1 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 0 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 1 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 0 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 1 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 1 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 0 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 0 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 0 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 0 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 1 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 0 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 0 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 0 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 0 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 1 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 0 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 0 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 1 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 0 is random value from 3
+2020-03-04 17:15:47 INFO  framework.logger.MyLogger : 11 - 1 is random value from 3
+2020-03-04 17:18:33 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-04 17:18:33 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-04 17:18:36 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-04 17:18:42 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/home page is opened
+2020-03-04 17:18:42 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-04 17:18:42 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-04 17:18:42 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-04 17:18:43 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-04 17:18:43 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-04 17:18:43 INFO  framework.logger.MyLogger : 15 - Create element Support
+2020-03-04 17:18:43 INFO  framework.logger.MyLogger : 11 - move to element Support
+2020-03-04 17:18:43 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-04 17:18:43 INFO  framework.logger.MyLogger : 15 - Create element Frequently Asked Questions
+2020-03-04 17:18:43 INFO  framework.logger.MyLogger : 15 - Click on element Frequently Asked Questions
+2020-03-04 17:18:46 INFO  framework.logger.MyLogger : 15 - Create element Select one
+2020-03-04 17:18:46 INFO  framework.logger.MyLogger : 15 - Create element Select one
+2020-03-04 17:18:46 INFO  framework.logger.MyLogger : 15 - Create element Select one
+2020-03-04 17:18:46 INFO  framework.logger.MyLogger : 11 - 0 is random value from 3
+2020-03-04 17:18:46 INFO  framework.logger.MyLogger : 11 - First Choice - name select element
+2020-03-04 17:18:47 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-04 17:19:14 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-04 17:19:14 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-04 17:19:16 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-04 17:19:20 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/home page is opened
+2020-03-04 17:19:20 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-04 17:19:20 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-04 17:19:20 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-04 17:19:20 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-04 17:19:21 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-04 17:19:21 INFO  framework.logger.MyLogger : 15 - Create element Support
+2020-03-04 17:19:21 INFO  framework.logger.MyLogger : 11 - move to element Support
+2020-03-04 17:19:21 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-04 17:19:21 INFO  framework.logger.MyLogger : 15 - Create element Frequently Asked Questions
+2020-03-04 17:19:21 INFO  framework.logger.MyLogger : 15 - Click on element Frequently Asked Questions
+2020-03-04 17:19:22 INFO  framework.logger.MyLogger : 15 - Create element Select one
+2020-03-04 17:19:22 INFO  framework.logger.MyLogger : 15 - Create element Select one
+2020-03-04 17:19:22 INFO  framework.logger.MyLogger : 15 - Create element Select one
+2020-03-04 17:19:23 INFO  framework.logger.MyLogger : 11 - 0 is random value from 3
+2020-03-04 17:19:23 INFO  framework.logger.MyLogger : 11 - First Choice - name select element
+2020-03-04 17:19:33 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-04 17:19:37 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-04 17:19:37 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-04 17:19:39 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-04 17:19:45 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/home page is opened
+2020-03-04 17:19:45 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-04 17:19:45 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-04 17:19:45 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-04 17:19:45 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-04 17:19:45 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-04 17:19:45 INFO  framework.logger.MyLogger : 15 - Create element Support
+2020-03-04 17:19:45 INFO  framework.logger.MyLogger : 11 - move to element Support
+2020-03-04 17:19:45 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-04 17:19:45 INFO  framework.logger.MyLogger : 15 - Create element Frequently Asked Questions
+2020-03-04 17:19:45 INFO  framework.logger.MyLogger : 15 - Click on element Frequently Asked Questions
+2020-03-04 17:19:47 INFO  framework.logger.MyLogger : 15 - Create element Select one
+2020-03-04 17:19:47 INFO  framework.logger.MyLogger : 15 - Create element Select one
+2020-03-04 17:19:47 INFO  framework.logger.MyLogger : 15 - Create element Select one
+2020-03-04 17:19:47 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:19:47 INFO  framework.logger.MyLogger : 11 - Third Choice - name select element
+2020-03-04 17:19:57 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-04 17:21:52 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-04 17:21:52 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-04 17:21:54 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-04 17:21:59 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/home page is opened
+2020-03-04 17:21:59 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-04 17:21:59 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-04 17:21:59 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-04 17:21:59 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-04 17:21:59 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-04 17:21:59 INFO  framework.logger.MyLogger : 15 - Create element Support
+2020-03-04 17:21:59 INFO  framework.logger.MyLogger : 11 - move to element Support
+2020-03-04 17:21:59 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-04 17:21:59 INFO  framework.logger.MyLogger : 15 - Create element Frequently Asked Questions
+2020-03-04 17:21:59 INFO  framework.logger.MyLogger : 15 - Click on element Frequently Asked Questions
+2020-03-04 17:22:02 INFO  framework.logger.MyLogger : 15 - Create element Select one
+2020-03-04 17:22:02 INFO  framework.logger.MyLogger : 15 - Create element Select one
+2020-03-04 17:22:02 INFO  framework.logger.MyLogger : 15 - Create element Select one
+2020-03-04 17:22:03 INFO  framework.logger.MyLogger : 11 - 0 is random value from 3
+2020-03-04 17:22:03 INFO  framework.logger.MyLogger : 11 - First Choice - name select element
+2020-03-04 17:22:03 INFO  framework.logger.MyLogger : 15 - Create element Select Country
+2020-03-04 17:22:03 INFO  framework.logger.MyLogger : 15 - Create element Select Country
+2020-03-04 17:22:05 INFO  framework.logger.MyLogger : 15 - Create element Select one
+2020-03-04 17:22:05 INFO  framework.logger.MyLogger : 11 - 1 is random value from 3
+2020-03-04 17:22:05 INFO  framework.logger.MyLogger : 11 - Albania - name select element
+2020-03-04 17:22:16 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-04 17:40:56 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-04 17:40:56 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-04 17:40:58 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-04 17:41:06 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/home page is opened
+2020-03-04 17:41:06 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-04 17:41:06 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-04 17:41:06 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-04 17:41:06 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-04 17:41:06 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-04 17:41:06 INFO  framework.logger.MyLogger : 15 - Create element Support
+2020-03-04 17:41:06 INFO  framework.logger.MyLogger : 11 - move to element Support
+2020-03-04 17:41:06 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-04 17:41:06 INFO  framework.logger.MyLogger : 15 - Create element Frequently Asked Questions
+2020-03-04 17:41:06 INFO  framework.logger.MyLogger : 15 - Click on element Frequently Asked Questions
+2020-03-04 17:41:10 INFO  framework.logger.MyLogger : 15 - Create element Select one
+2020-03-04 17:41:10 INFO  framework.logger.MyLogger : 15 - Create element Select one
+2020-03-04 17:41:10 INFO  framework.logger.MyLogger : 15 - Create element Select one
+2020-03-04 17:41:10 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:41:10 INFO  framework.logger.MyLogger : 11 - Third Choice - name select element
+2020-03-04 17:41:10 INFO  framework.logger.MyLogger : 15 - Create element Select Country
+2020-03-04 17:41:10 INFO  framework.logger.MyLogger : 15 - Create element Select Country
+2020-03-04 17:41:13 INFO  framework.logger.MyLogger : 15 - Create element Select one
+2020-03-04 17:41:13 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:41:13 INFO  framework.logger.MyLogger : 11 - Algeria - name select element
+2020-03-04 17:41:13 INFO  framework.logger.MyLogger : 15 - Create element Name
+2020-03-04 17:41:13 INFO  framework.logger.MyLogger : 11 - input data Name
+2020-03-04 17:41:13 INFO  framework.logger.MyLogger : 15 - Create element Company
+2020-03-04 17:41:13 INFO  framework.logger.MyLogger : 11 - input data Company
+2020-03-04 17:41:13 INFO  framework.logger.MyLogger : 15 - Create element Email
+2020-03-04 17:41:13 INFO  framework.logger.MyLogger : 11 - input data Email
+2020-03-04 17:41:13 INFO  framework.logger.MyLogger : 15 - Create element Phone
+2020-03-04 17:41:13 INFO  framework.logger.MyLogger : 11 - input data Phone
+2020-03-04 17:41:13 INFO  framework.logger.MyLogger : 15 - Create element Comments
+2020-03-04 17:41:14 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-04 17:45:33 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-04 17:45:33 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-04 17:45:35 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-04 17:45:40 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/home page is opened
+2020-03-04 17:45:40 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-04 17:45:40 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-04 17:45:40 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-04 17:45:40 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-04 17:45:40 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-04 17:45:40 INFO  framework.logger.MyLogger : 15 - Create element Support
+2020-03-04 17:45:40 INFO  framework.logger.MyLogger : 11 - move to element Support
+2020-03-04 17:45:40 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-04 17:45:40 INFO  framework.logger.MyLogger : 15 - Create element Frequently Asked Questions
+2020-03-04 17:45:40 INFO  framework.logger.MyLogger : 15 - Click on element Frequently Asked Questions
+2020-03-04 17:45:42 INFO  framework.logger.MyLogger : 15 - Create element Select one
+2020-03-04 17:45:42 INFO  framework.logger.MyLogger : 15 - Create element Select one
+2020-03-04 17:45:42 INFO  framework.logger.MyLogger : 15 - Create element Select one
+2020-03-04 17:45:42 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 17:45:42 INFO  framework.logger.MyLogger : 11 - Third Choice - name select element
+2020-03-04 17:45:42 INFO  framework.logger.MyLogger : 15 - Create element Select Country
+2020-03-04 17:45:42 INFO  framework.logger.MyLogger : 15 - Create element Select Country
+2020-03-04 17:45:45 INFO  framework.logger.MyLogger : 15 - Create element Select one
+2020-03-04 17:45:45 INFO  framework.logger.MyLogger : 11 - 0 is random value from 3
+2020-03-04 17:45:45 INFO  framework.logger.MyLogger : 11 - Afghanistan - name select element
+2020-03-04 17:45:45 INFO  framework.logger.MyLogger : 15 - Create element Name
+2020-03-04 17:45:45 INFO  framework.logger.MyLogger : 11 - input data Name
+2020-03-04 17:45:45 INFO  framework.logger.MyLogger : 15 - Create element Company
+2020-03-04 17:45:45 INFO  framework.logger.MyLogger : 11 - input data Company
+2020-03-04 17:45:45 INFO  framework.logger.MyLogger : 15 - Create element Email
+2020-03-04 17:45:45 INFO  framework.logger.MyLogger : 11 - input data Email
+2020-03-04 17:45:45 INFO  framework.logger.MyLogger : 15 - Create element Phone
+2020-03-04 17:45:45 INFO  framework.logger.MyLogger : 11 - input data Phone
+2020-03-04 17:45:45 INFO  framework.logger.MyLogger : 15 - Create element Comment input
+2020-03-04 17:45:45 INFO  framework.logger.MyLogger : 11 - input data Comment input
+2020-03-04 17:45:57 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-04 18:04:05 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-04 18:04:05 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-04 18:04:08 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-04 18:04:12 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/home page is opened
+2020-03-04 18:04:12 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-04 18:04:12 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-04 18:04:12 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-04 18:04:12 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-04 18:04:13 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-04 18:04:13 INFO  framework.logger.MyLogger : 15 - Create element Support
+2020-03-04 18:04:13 INFO  framework.logger.MyLogger : 11 - move to element Support
+2020-03-04 18:04:13 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-04 18:04:13 INFO  framework.logger.MyLogger : 15 - Create element Frequently Asked Questions
+2020-03-04 18:04:13 INFO  framework.logger.MyLogger : 15 - Click on element Frequently Asked Questions
+2020-03-04 18:04:15 INFO  framework.logger.MyLogger : 15 - Create element Select one
+2020-03-04 18:04:15 INFO  framework.logger.MyLogger : 15 - Create element Select one
+2020-03-04 18:04:15 INFO  framework.logger.MyLogger : 15 - Create element Select one
+2020-03-04 18:04:15 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 18:04:15 INFO  framework.logger.MyLogger : 11 - Third Choice - name select element
+2020-03-04 18:04:15 INFO  framework.logger.MyLogger : 15 - Create element Select Country
+2020-03-04 18:04:15 INFO  framework.logger.MyLogger : 15 - Create element Select Country
+2020-03-04 18:04:18 INFO  framework.logger.MyLogger : 15 - Create element Select one
+2020-03-04 18:04:18 INFO  framework.logger.MyLogger : 11 - 2 is random value from 3
+2020-03-04 18:04:18 INFO  framework.logger.MyLogger : 11 - Algeria - name select element
+2020-03-04 18:04:18 INFO  framework.logger.MyLogger : 15 - Create element Name
+2020-03-04 18:04:18 INFO  framework.logger.MyLogger : 11 - input data Name
+2020-03-04 18:04:18 INFO  framework.logger.MyLogger : 15 - Create element Company
+2020-03-04 18:04:18 INFO  framework.logger.MyLogger : 11 - input data Company
+2020-03-04 18:04:18 INFO  framework.logger.MyLogger : 15 - Create element Email
+2020-03-04 18:04:18 INFO  framework.logger.MyLogger : 11 - input data Email
+2020-03-04 18:04:18 INFO  framework.logger.MyLogger : 15 - Create element Phone
+2020-03-04 18:04:19 INFO  framework.logger.MyLogger : 11 - input data Phone
+2020-03-04 18:04:19 INFO  framework.logger.MyLogger : 15 - Create element Comment input
+2020-03-04 18:04:19 INFO  framework.logger.MyLogger : 11 - input data Comment input
+2020-03-04 18:04:19 INFO  framework.logger.MyLogger : 15 - Create element Submit button
+2020-03-04 18:04:40 INFO  framework.logger.MyLogger : 11 - browser is closed
+2020-03-04 18:07:49 INFO  framework.logger.MyLogger : 23 - <----------- Step 0 - Go to the Page: http://qa.yotec.net/ --->
+2020-03-04 18:07:49 INFO  framework.logger.MyLogger : 11 - Local driver is ready
+2020-03-04 18:07:52 INFO  framework.logger.MyLogger : 11 - browser is CHROME
+2020-03-04 18:07:58 INFO  framework.logger.MyLogger : 11 - http://qa.yotec.net/home page is opened
+2020-03-04 18:07:58 INFO  framework.logger.MyLogger : 15 - Create element Main menu
+2020-03-04 18:07:58 INFO  framework.logger.MyLogger : 11 - move to MainMenuItem - We Are Wabash
+2020-03-04 18:07:58 INFO  framework.logger.MyLogger : 15 - Create element We Are Wabash
+2020-03-04 18:07:58 INFO  framework.logger.MyLogger : 11 - move to element We Are Wabash
+2020-03-04 18:07:58 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-04 18:07:58 INFO  framework.logger.MyLogger : 15 - Create element Support
+2020-03-04 18:07:58 INFO  framework.logger.MyLogger : 11 - move to element Support
+2020-03-04 18:07:58 INFO  framework.logger.MyLogger : 15 - Create element SubMain menu
+2020-03-04 18:07:58 INFO  framework.logger.MyLogger : 15 - Create element Frequently Asked Questions
+2020-03-04 18:07:58 INFO  framework.logger.MyLogger : 15 - Click on element Frequently Asked Questions
+2020-03-04 18:08:00 INFO  framework.logger.MyLogger : 15 - Create element Select one
+2020-03-04 18:08:00 INFO  framework.logger.MyLogger : 15 - Create element Select one
+2020-03-04 18:08:00 INFO  framework.logger.MyLogger : 15 - Create element Select one
+2020-03-04 18:08:00 INFO  framework.logger.MyLogger : 11 - 0 is random value from 3
+2020-03-04 18:08:00 INFO  framework.logger.MyLogger : 11 - First Choice - name select element
+2020-03-04 18:08:00 INFO  framework.logger.MyLogger : 15 - Create element Select Country
+2020-03-04 18:08:00 INFO  framework.logger.MyLogger : 15 - Create element Select Country
+2020-03-04 18:08:03 INFO  framework.logger.MyLogger : 15 - Create element Select one
+2020-03-04 18:08:03 INFO  framework.logger.MyLogger : 11 - 0 is random value from 3
+2020-03-04 18:08:03 INFO  framework.logger.MyLogger : 11 - Afghanistan - name select element
+2020-03-04 18:08:03 INFO  framework.logger.MyLogger : 15 - Create element Name
+2020-03-04 18:08:03 INFO  framework.logger.MyLogger : 11 - input data Name
+2020-03-04 18:08:03 INFO  framework.logger.MyLogger : 15 - Create element Company
+2020-03-04 18:08:03 INFO  framework.logger.MyLogger : 11 - input data Company
+2020-03-04 18:08:03 INFO  framework.logger.MyLogger : 15 - Create element Email
+2020-03-04 18:08:03 INFO  framework.logger.MyLogger : 11 - input data Email
+2020-03-04 18:08:03 INFO  framework.logger.MyLogger : 15 - Create element Phone
+2020-03-04 18:08:03 INFO  framework.logger.MyLogger : 11 - input data Phone
+2020-03-04 18:08:03 INFO  framework.logger.MyLogger : 15 - Create element Comment input
+2020-03-04 18:08:03 INFO  framework.logger.MyLogger : 11 - input data Comment input
+2020-03-04 18:08:04 INFO  framework.logger.MyLogger : 15 - Create element Submit button
+2020-03-04 18:08:04 INFO  framework.logger.MyLogger : 15 - Click on element Submit button
+2020-03-04 18:08:05 INFO  framework.logger.MyLogger : 15 - Create element Success message
+2020-03-04 18:08:15 INFO  framework.logger.MyLogger : 11 - browser is closed
