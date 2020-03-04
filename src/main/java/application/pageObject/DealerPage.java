@@ -1,6 +1,6 @@
 package application.pageObject;
 
-import application.Models.Dealer;
+import application.models.Dealer;
 import application.enums.LocationFilterItem;
 import framework.browsers.BrowserActions;
 import framework.elements.Button;

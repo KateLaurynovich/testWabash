@@ -1,4 +1,4 @@
-package application.Models;
+package application.models;
 
 public class Dealer {
     String name;
